@@ -14,3 +14,10 @@ Write a function called that takes a string of parentheses, and determines if th
 
 ## Constraints
 `0 <= input.length <= 100`
+
+## Complete the algorithm
+```javascript
+function validParentheses(parens) {
+    //...
+}
+```
